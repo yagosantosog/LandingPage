@@ -225,8 +225,8 @@
         background: black;
         color: white;
         font-size: 3rem;
-        line-height: 3rem;
-        width: 3rem;
+        line-height: 7rem;
+        width: 7rem;
         height: 3rem;
         text-align: center;
         padding: 0.5rem;
@@ -250,8 +250,8 @@
         bottom: 2rem;
         right: 2rem;
         background: white;
-        width: 5rem;
-        height: 5rem;
+        width: 8rem;
+        height: 8rem;
         display: flex;
         justify-content: center;
         align-items: center;
